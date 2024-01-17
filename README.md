@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idreesahmed1257&label=Profile%20views&color=0e75b6&style=flat" alt="idreesahmed1257" /> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/pulse/how-chat-gpt-can-answer-your-customers-idrees-ahmed-qws6f%3FtrackingId=%252ByrqvDQ3SLOGxOdlwF1Y%252FA%253D%253D/?trackingId=%2ByrqvDQ3SLOGxOdlwF1Y%2FA%3D%3D](https://www.linkedin.com/pulse/how-chat-gpt-can-answer-your-customers-idrees-ahmed-qws6f%3FtrackingId=%252ByrqvDQ3SLOGxOdlwF1Y%252FA%253D%253D/?trackingId=%2ByrqvDQ3SLOGxOdlwF1Y%2FA%3D%3D)
-
 - 📫 How to reach me **idreesahmed697@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
