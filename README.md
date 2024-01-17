@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Idrees Ahmed</h1>
 <h3 align="center">I am a Software Engineer expert in MERN Stack</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idreesahmed1257" alt="idreesahmed1257" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idreesahmed1257&label=Profile%20views&color=0e75b6&style=flat" alt="idreesahmed1257" /> </p>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/how-chat-gpt-can-answer-your-customers-idrees-ahmed-qws6f%3FtrackingId=%252ByrqvDQ3SLOGxOdlwF1Y%252FA%253D%253D/?trackingId=%2ByrqvDQ3SLOGxOdlwF1Y%2FA%3D%3D](https://www.linkedin.com/pulse/how-chat-gpt-can-answer-your-customers-idrees-ahmed-qws6f%3FtrackingId=%252ByrqvDQ3SLOGxOdlwF1Y%252FA%253D%253D/?trackingId=%2ByrqvDQ3SLOGxOdlwF1Y%2FA%3D%3D)
 
